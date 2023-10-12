@@ -1,0 +1,108 @@
+﻿@model First_Models.Product
+@using First_Utility
+
+<form method="post">
+
+    <input asp-for="Id" hidden />
+    
+    <div class="border p-3">
+
+        <div class="form-group row">
+            <h2 class="text-info pl-3">Ürün Sil</h2>
+        </div>
+        <div class="row">
+            <div class="col-8">
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Name">Ürün Adı</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Name" disabled class="form-control" />
+                    </div>
+
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Price">Ücret</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Price" disabled class="form-control" />
+                    </div>
+
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="shortDesc">Başlık</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="shortDesc" disabled class="form-control" />
+                    </div>
+
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Description">Açıklama</label>
+                    </div>
+                    <div class="col-8">
+                        <textarea asp-for="Description" disabled class="form-control summernote"></textarea>
+                        </div>
+
+                </div>
+                
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="CategoryId">Kategori</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="CategoryId" disabled class="form-control" />
+                    </div>
+
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="ApplicationId">Ürün Türü</label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="ApplicationId" disabled class="form-control" />
+                    </div>
+
+                </div>
+                <div class="form-group row">
+                    <div class="col-8 offset-4 row">
+
+                        <div class="col">
+                            <button type="submit" class="btn btn-danger w-100">Sil</button>
+ 
+                        </div>
+                        <div class="col">
+                            <a asp-action="Index" class="btn btn-success w-100"><i class="fas fa-sign-out-alt"></i> Geri Dön</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-4">
+            @* Keep this empty *@
+            @if (Model.Id != 0)
+            {
+                <img src="@WC.ImagePath@Model.Image" class="w-100" style="accent-color:5px; border:1px solid #bbb" />
+            }
+        </div>
+    </div>
+    </div>
+
+</form>
+
+@section scripts{
+
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+    <script>
+        $(document).ready(function () {
+            $('.summernote').summernote();
+            height: 250,
+            disable: true
+        });
+    </script>
+}

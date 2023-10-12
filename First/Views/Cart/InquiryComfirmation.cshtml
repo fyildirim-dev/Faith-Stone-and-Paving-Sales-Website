@@ -1,0 +1,19 @@
+﻿@model First_Models.OrderHeader
+
+<div class="text-center">
+
+	@if(Model != null)
+	{
+		<h1 class="text-info">Sipariş Oluşturuldu</h1>
+		<p>#@Model.Id siparişiniz başarıyla alındı!</p>
+	}
+	else
+	{
+		
+	<h1 class="text-info">Siparişiniz Onaylandı</h1>
+
+		<p>Siparişinizi aldık ve ekibimizden bir kişi kısa süre içinde sizinle iletişime geçecek!</p>
+	}
+
+	<img src="/images/patio.jpg" width="80%" />
+</div>

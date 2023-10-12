@@ -1,0 +1,12 @@
+C:\Users\Fatih\source\repos\Projects\First_Models\bin\Debug\net5.0\First_Models.deps.json
+C:\Users\Fatih\source\repos\Projects\First_Models\bin\Debug\net5.0\First_Models.dll
+C:\Users\Fatih\source\repos\Projects\First_Models\bin\Debug\net5.0\First_Models.pdb
+C:\Users\Fatih\source\repos\Projects\First_Models\obj\Debug\net5.0\First_Models.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\Projects\First_Models\obj\Debug\net5.0\First_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\source\repos\Projects\First_Models\obj\Debug\net5.0\First_Models.AssemblyInfoInputs.cache
+C:\Users\Fatih\source\repos\Projects\First_Models\obj\Debug\net5.0\First_Models.AssemblyInfo.cs
+C:\Users\Fatih\source\repos\Projects\First_Models\obj\Debug\net5.0\First_Models.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\Projects\First_Models\obj\Debug\net5.0\First_Models.dll
+C:\Users\Fatih\source\repos\Projects\First_Models\obj\Debug\net5.0\refint\First_Models.dll
+C:\Users\Fatih\source\repos\Projects\First_Models\obj\Debug\net5.0\First_Models.pdb
+C:\Users\Fatih\source\repos\Projects\First_Models\obj\Debug\net5.0\ref\First_Models.dll

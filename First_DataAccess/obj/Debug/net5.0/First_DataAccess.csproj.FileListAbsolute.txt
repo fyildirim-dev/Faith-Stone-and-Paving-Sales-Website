@@ -1,0 +1,17 @@
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\bin\Debug\net5.0\First_DataAccess.deps.json
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\bin\Debug\net5.0\First_DataAccess.dll
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\bin\Debug\net5.0\First_DataAccess.pdb
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\bin\Debug\net5.0\First_Models.dll
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\bin\Debug\net5.0\First_Utility.dll
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\bin\Debug\net5.0\First_Models.pdb
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\bin\Debug\net5.0\First_Utility.pdb
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\obj\Debug\net5.0\First_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\obj\Debug\net5.0\First_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\obj\Debug\net5.0\First_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\obj\Debug\net5.0\First_DataAccess.AssemblyInfo.cs
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\obj\Debug\net5.0\First_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\obj\Debug\net5.0\First_DataAccess.csproj.CopyComplete
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\obj\Debug\net5.0\First_DataAccess.dll
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\obj\Debug\net5.0\refint\First_DataAccess.dll
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\obj\Debug\net5.0\First_DataAccess.pdb
+C:\Users\Fatih\source\repos\Projects\First_DataAccess\obj\Debug\net5.0\ref\First_DataAccess.dll
